@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644995513727",
+    "project_id": "buzzroom-6f24b",
+    "storage_bucket": "buzzroom-6f24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644995513727:android:dcdc0478503266de506e4a",
+        "android_client_info": {
+          "package_name": "com.company.BuzzRoom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxJqlRZb-lIztgdik9-doZvNaqKI_6Hwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644995513727:android:40e13932ee306ed1506e4a",
+        "android_client_info": {
+          "package_name": "com.example.buzzroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxJqlRZb-lIztgdik9-doZvNaqKI_6Hwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
